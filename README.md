@@ -68,8 +68,4 @@
 <h2 align="center"> 
 </h2>
 
-`Thanks To,`
-
-1: `Mr Shan Brother`
-
 ***`WARNING` : `DON'T MODIFY THIS BOT FIRST INFORM THE OWNER`***
