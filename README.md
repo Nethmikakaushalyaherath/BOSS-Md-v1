@@ -26,21 +26,7 @@
   <a aria-label="WhatsApp Supported Channel" href="https://whatsapp.com/channel/0029VaexBKX4SpkOBf4W5H1g" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <p align="center">
-<a href="https://github.com/maduwa2006/MASTER-MD/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
-  <div>
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-      
-<div align="center">
-   
-<a href="https://master-v1-session-c6a0e3471a79.herokuapp.com/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
-<div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<a href="https://master-v1-session-c6a0e3471a79.herokuapp.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-black" alt="LOGIN WITH PAIR CODE" width="250"></a>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Deployment Methods
 ---
